@@ -69,4 +69,4 @@ def actualizar_mapa_de_calor(tipos_seleccionados):
 
 # Ejecutar la aplicación
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
